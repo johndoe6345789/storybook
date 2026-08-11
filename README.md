@@ -1,0 +1,3 @@
+# storybook
+
+Split out of [metabuilder](frontends/storybook) as part of the [reposplit](https://github.com/johndoe6345789/reposplit) effort.
